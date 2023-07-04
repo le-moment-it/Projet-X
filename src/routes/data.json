@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Development",
+    "subcategories": [
+      {
+        "name": "Software",
+        "subcategories": [
+          {
+            "name": "Developer",
+            "description": "Software development such as ERP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Project Management",
+    "subcategories": [
+      {
+        "name": "Product Owner",
+        "description": "Main contact between the developer and the client"
+      },
+      {
+        "name": "Scrum Master",
+        "description": "Scrum coach"
+      }
+    ]
+  },
+  {
+    "name": "Infrastructure",
+    "subcategories": [
+      {
+        "name": "Site reliability engineering",
+        "description": "Managing servers"
+      },
+      {
+        "name": "Platform engineer",
+        "description": "Doing platform engineer things"
+      },
+      {
+        "name": "DevOps",
+        "description": "Doing devops things"
+      }
+    ]
+  }
+]
